@@ -11,5 +11,14 @@ The analysis was conducted using R (Bioconductor) with the limma package to iden
 
 ## 📁 Repository Structure
 
-/dataset
+dataset/
 Contain raw dataset of GSE39870
+
+figures/
+Contains analysis visualization
+
+report/
+Contains the final report in a pdf file
+
+script/
+Contain the R script
